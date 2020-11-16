@@ -20,6 +20,7 @@ public class MathUtilityTest {
 	//cach dat ten ham se noi len muc tieu test ham co nhieu ui tac dat ten ham test
 	public void getFactorial_RunsWell_IfValidArgument(){
 		assertEquals(120, getFactorioal(5));
+		assertEquals(1, getFactorioal(0));
 	}
 	@Test(expected = IllegalArgumentException.class)
 	public void getFactorial_ThrowsException_IfInvalidArgument(){
