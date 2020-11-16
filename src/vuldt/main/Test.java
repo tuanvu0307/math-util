@@ -30,5 +30,16 @@ public class Test {
 		
 		//in thu xem coi co giong Math.PI kh?
 		System.out.println("PI: "+PI);
+		
+		//muon ket luan ham minh ngon, thi ta phai nhin bang mat kets qua chay cua ham
+		// va so sanh voi ki vong lam tung truong hop chay ham - test case
+		//cach nay on nhing mat suc
+		
+		//Nang cao dung mau sac xanh do de ket luan
+		//ta thays xanh, ham y moi tinh huong on
+		//ta thay do, chi 1 thang do voi nhue ham toang
+		//ta sai them 1 framework, unit test ten chung
+		//junit, testing, nunit,...la nhung frameword cu the de giup test cac ham 1 cach hieeu qua
+		//dung no ta tich hop vao mot quy trinh lam pham mem lon hon - CI/
 	}
 }
