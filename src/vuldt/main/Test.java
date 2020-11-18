@@ -31,6 +31,7 @@ public class Test {
 		//in thu xem coi co giong Math.PI kh?
 		System.out.println("PI: "+PI);
 		
+		System.out.println("Goodbye and good luck to you all in the final exam");
 		//muon ket luan ham minh ngon, thi ta phai nhin bang mat kets qua chay cua ham
 		// va so sanh voi ki vong lam tung truong hop chay ham - test case
 		//cach nay on nhing mat suc
